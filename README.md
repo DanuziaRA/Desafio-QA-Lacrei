@@ -16,7 +16,7 @@ Para tanto, detalha-se:
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20RASTREABILIDADE%20DE%20CASOS%20DE%20TESTES.pdf)
 * Evidências (gravação das telas) de execução dos casos de testes;\
   ()
-* Cenários de testes:
+* Cenários de testes: \
   a) desempenho (); \
   b) acessibilidade ();\
   c) responsividade mobile considerando dois tipos de dispositivos (); e \
