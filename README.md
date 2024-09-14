@@ -12,8 +12,10 @@ Para tanto, detalha-se:
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20STATUS%20DE%20CASOS%20DE%20TESTES.pdf) 
 * Relatório Gráfico de Execução de Casos de Testes;
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20GR%C3%81FICO%20DE%20CASOS%20DE%20TESTES.pdf) 
-* Relatório de Rastreabilidade de Casos de Testes (); 
-* Evidências (gravação das telas) de execução dos casos de testes (); 
+* Relatório de Rastreabilidade de Casos de Testes;
+  (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20RASTREABILIDADE%20DE%20CASOS%20DE%20TESTES.pdf)
+* Evidências (gravação das telas) de execução dos casos de testes;
+  ()
 * Cenários de testes:
   a) desempenho (); \
   b) acessibilidade ();\
