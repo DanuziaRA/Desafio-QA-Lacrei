@@ -2,8 +2,19 @@
 
 Este repositório contém a documentação de teste do **Desafio de QA da Lacrei Saúde.** 
 
+Para tanto, detalha-se:
+*Especificação de Casos de Teste () ; \
+*Especificações de Procedimento de Teste (todos os fluxos indicados no desafio) (); \
+*Relatório de Status de Casos de Teste (); \
+*Relatório Gráfico de Execução de Casos de Testes (); \
+*Relatório de Rastreabilidade de Casos de Testes (); \
+*Evidências (gravação das telas) de execução dos casos de testes (); \
+* Cenários de testes:
+* a) desempenho ();
+* b) acessibilidade ();
+* c) responsividade mobile considerando dois tipos de dispositivos ();
 
-
+Além disso, diante do escopo do desafio apresenta-se os cenários de teste de desempenho; acessibilidade e responsividade mobile considerando dois tipos de dispositivos, as recomendações para correção de bugs e sugestões de melhorias contínuas da plataforma.
 
 
 ## Introdução
@@ -12,9 +23,17 @@ A presente documentação tem como objetivo apresentar o conjunto abrangente de 
 
 Além dos testes funcionais, elabora-se cenários para avaliar o desempenho do aplicativo, assegurando que ele opere de maneira eficiente sob diferentes condições de carga. Ademais, realiza-se uma análise de acessibilidade para garantir que o aplicativo seja utilizável por todos os usuários, independentemente de suas necessidades específicas. A responsividade do aplicativo foi testada em dois tipos de dispositivos móveis, assegurando que a experiência do usuário seja consistente e otimizada.
 
-Neste documento, segue-se o padrão IEEE 829 elaborado pela IEEE (Institute of Electrical and Electronic Engineers), no que tange ao processo de testes e controle da qualidade. Para tanto, detalha-se a Especificação de Casos de Teste, Especificação de Procedimento de Teste e Relatório de Status de Teste. Além disso, diante do escopo do desafio apresenta-se os cenários de teste de desempenho; acessibilidade e responsividade mobile considerando dois tipos de dispositivos, as recomendações para correção de bugs e sugestões de melhorias contínuas da plataforma. Acreditamos que esta análise fornecerá uma visão clara sobre a robustez e a qualidade da aplicação. 
+Acredita-se que esta análise fornecerá uma visão clara sobre a robustez e a qualidade da aplicação. 
 
+## Metodologia e Ferramentas
 
+Neste documento, segue-se o padrão IEEE 829 elaborado pela IEEE (Institute of Electrical and Electronic Engineers), fundação organizacional sem fins lucrativos responsável por definir padrões para praticas presentes na engenharia de software, no que tange ao processo de testes e controle da qualidade, definição de documentos consistentes, adequados, em registros capazes de prover condições de análise dos resultados obtidos ao longo dos testes funcionais.
+
+As ferramentas utilizadas no processo de teste são listadas a seguir:
+                • Site Lacrei Saúde utilizado para elaboração do planejamento dos casos de teste, disponível no endereço https://paciente-staging.lacreisaude.com.br/ 
+                • O Jira Software™  foi a ferramenta para o planejamento, metodologia e gestão da execução do projeto. 
+                • O aplicativo Zephyr Scale© foi escolhido como gerenciador dos casos de testes, uma vez que se integra ao software Jira, permitindo a coordenação e rastreio de atividades e resultados dos casos. 
+                • Os fluxos dos casos de testes foram executados na plataforma Sauce Labs©  unificada para testes automatizados e monitoramento de erros para aplicativos móveis, integrado a estrutura de automação Appium Serve©.
 
 
 ## Caso de Teste
