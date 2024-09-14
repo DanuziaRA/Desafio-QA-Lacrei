@@ -3,16 +3,18 @@
 Este repositório contém a documentação de teste do **Desafio de QA da Lacrei Saúde.** 
 
 Para tanto, detalha-se:
-*Especificação de Casos de Teste () ; \
-*Especificações de Procedimento de Teste (todos os fluxos indicados no desafio) (); \
-*Relatório de Status de Casos de Teste (); \
-*Relatório Gráfico de Execução de Casos de Testes (); \
-*Relatório de Rastreabilidade de Casos de Testes (); \
-*Evidências (gravação das telas) de execução dos casos de testes (); \
+
+* Especificação de Casos de Teste () ; 
+* Especificações de Procedimento de Teste (todos os fluxos indicados no desafio) (); 
+* Relatório de Status de Casos de Teste (); 
+* Relatório Gráfico de Execução de Casos de Testes (); 
+* Relatório de Rastreabilidade de Casos de Testes (); 
+* Evidências (gravação das telas) de execução dos casos de testes (); 
 * Cenários de testes:
-* a) desempenho ();
-* b) acessibilidade ();
-* c) responsividade mobile considerando dois tipos de dispositivos ();
+  a) desempenho (); \
+  b) acessibilidade ();\
+  c) responsividade mobile considerando dois tipos de dispositivos (); e \
+* Falhas e Melhorias (). 
 
 Além disso, diante do escopo do desafio apresenta-se os cenários de teste de desempenho; acessibilidade e responsividade mobile considerando dois tipos de dispositivos, as recomendações para correção de bugs e sugestões de melhorias contínuas da plataforma.
 
