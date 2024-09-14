@@ -1,6 +1,10 @@
 # Desafio Quality Assurance Lacrei Saúde
 
-Este repositório contém a documentação de teste do **Desafio de QA da Lacrei Saúde**. O objetivo do desafio foi validar os principais fluxos do sistema, garantindo que as funcionalidades atendessem aos critérios de aceite e funcionassem corretamente em dispositivos móveis.
+Este repositório contém a documentação de teste do **Desafio de QA da Lacrei Saúde**. 
+* 
+
+
+
 
 ## Introdução
 
@@ -21,3 +25,7 @@ Fluxo da pessoa usuária (Versão Mobile): \
   **Editar Perfil um dado da Pessoa Usuária**: Inserir as informações solicitadas com troca de dados.\
   **Esquecer a senha da pessoa usuária e receber por e-mail.**\
   **Testar reset de senha.**
+
+
+## Referência 
+1. IEEE Standard for Software Test Documentation. Disponível em:<https://ieeexplore.ieee.org/document/741968/> Acesso em: 10 de setembro de 2024.
