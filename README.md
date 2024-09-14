@@ -4,8 +4,10 @@ Este repositório contém a documentação de teste do **Desafio de QA da Lacrei
 
 Para tanto, detalha-se:
 
-* Especificação de Casos de Teste (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/ESPECIFICA%C3%87%C3%83O%20DE%20CASOS%20DE%20TESTES.pdf) ; 
-* Especificações de Procedimento de Teste (todos os fluxos indicados no desafio) (); 
+* Especificação de Casos de Teste; \
+  (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/ESPECIFICA%C3%87%C3%83O%20DE%20CASOS%20DE%20TESTES.pdf) 
+* Especificações de Procedimento de Teste (todos os fluxos indicados no desafio); \
+  (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/ESPECIFICA%C3%87%C3%95ES%20DE%20PROCEDIMENTOS%20DE%20TESTES.rar); 
 * Relatório de Status de Casos de Teste (); 
 * Relatório Gráfico de Execução de Casos de Testes (); 
 * Relatório de Rastreabilidade de Casos de Testes (); 
