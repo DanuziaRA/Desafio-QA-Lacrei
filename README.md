@@ -1,7 +1,7 @@
 # Desafio Quality Assurance Lacrei Saúde
 
 Este repositório contém a documentação de teste do **Desafio de QA da Lacrei Saúde.** 
-* 
+
 
 
 
