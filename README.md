@@ -20,7 +20,8 @@ Para tanto, detalha-se:
   a) desempenho (); \
   b) acessibilidade ();\
   c) responsividade mobile considerando dois tipos de dispositivos (); e \
-* Falhas e Melhorias (). 
+* Falhas(bugs) e Melhorias. \
+  () 
 
 Além disso, diante do escopo do desafio apresenta-se os cenários de teste de desempenho; acessibilidade e responsividade mobile considerando dois tipos de dispositivos, as recomendações para correção de bugs e sugestões de melhorias contínuas da plataforma.
 
