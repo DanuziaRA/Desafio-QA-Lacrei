@@ -23,9 +23,6 @@ Para tanto, detalha-se:
 * Falhas(bugs) e Melhorias. \
   () 
 
-Além disso, diante do escopo do desafio apresenta-se os cenários de teste de desempenho; acessibilidade e responsividade mobile considerando dois tipos de dispositivos, as recomendações para correção de bugs e sugestões de melhorias contínuas da plataforma.
-
-
 ## Introdução
 
 A presente documentação tem como objetivo apresentar o conjunto abrangente de casos de teste desenvolvidos para o **Desafio de QA da Lacrei Saúde**, a fim de avaliar a funcionalidade e a usabilidade do aplicativo/plataforma digital Lacrei Saúde. Cujo bojo foi criar casos de testes de uma variedade de fluxos críticos, abrangendo desde o processo de cadastro e pós-cadastro até a funcionalidade de busca e contato com profissionais, edição de perfil e as funcionalidades de recuperação de senha em dispositivos móveis.
