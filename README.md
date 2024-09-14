@@ -10,11 +10,11 @@ Para tanto, detalha-se:
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/ESPECIFICA%C3%87%C3%95ES%20DE%20PROCEDIMENTOS%20DE%20TESTES.rar) 
 * Relatório de Status de Casos de Teste; \
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20STATUS%20DE%20CASOS%20DE%20TESTES.pdf) 
-* Relatório Gráfico de Execução de Casos de Testes;
+* Relatório Gráfico de Execução de Casos de Testes; \
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20GR%C3%81FICO%20DE%20CASOS%20DE%20TESTES.pdf) 
-* Relatório de Rastreabilidade de Casos de Testes;
+* Relatório de Rastreabilidade de Casos de Testes;\
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20RASTREABILIDADE%20DE%20CASOS%20DE%20TESTES.pdf)
-* Evidências (gravação das telas) de execução dos casos de testes;
+* Evidências (gravação das telas) de execução dos casos de testes;\
   ()
 * Cenários de testes:
   a) desempenho (); \
