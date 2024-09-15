@@ -22,7 +22,7 @@ Gravações de tela 2 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/
 * Cenários de testes: desempenho, acessibilidade e responsividade mobile considerando dois tipos de dispositivos; \
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/CEN%C3%81RIO%20DE%20TESTES.pdf)
 * Melhorias. \
-  () 
+  (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20FALHAS%20E%20MELHORIAS%20-%20CASOS%20DE%20TESTE.pdf) 
 
 ## Introdução
 
@@ -53,10 +53,15 @@ Fluxo da pessoa usuária (Versão Mobile): \
   **Esquecer a senha da pessoa usuária e receber por e-mail.**\
   **Testar reset de senha.**
 
-   ## Cenários de testes
+## Cenários de testes
+   * Criar 1 cenário de teste de desempenho; 
+   * Criar 1 cenário de testes de acessibilidade; 
+   * Criar 1 cenário de teste de responsividade mobile considerando dois tipos de dispositivos; 
+   
+## Bugs e Melhorias
+   * Relatório de Falhas e Melhorias.
 
-   ## Bugs e Melhorias 
-
+## Bônus: Criação de teste automatizado em Cypress E2E 
 
 ## Referência 
 1. IEEE Standard for Software Test Documentation. Disponível em:<https://ieeexplore.ieee.org/document/741968/> Acesso em: 10 de setembro de 2024.
