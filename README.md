@@ -44,7 +44,6 @@ As ferramentas utilizadas no processo de teste são listadas a seguir: \
 * Os fluxos dos casos de testes e cenário de teste de acessabilidade e responsividade mobile considerando dois tipos de dispositivos foram executados na plataforma Sauce Labs©, unificada para testes automatizados e monitoramento de erros para aplicativos móveis, integrado a estrutura de automação Appium Serve©.
 * Para o cenário de teste de desempenho foi utilizado a ferramenta Testable.io©
 
-
 ## Caso de Teste
 1. Criar casos de testes para os fluxos citados e gravar a tela realizando a ação: \
 Fluxo da pessoa usuária (Versão Mobile): \
@@ -56,13 +55,14 @@ Fluxo da pessoa usuária (Versão Mobile): \
 
 ## Cenários de testes
    * Criar 1 cenário de teste de desempenho; 
-   * Criar 1 cenário de testes de acessibilidade; 
-   * Criar 1 cenário de teste de responsividade mobile considerando dois tipos de dispositivos; 
+   * Criar 1 cenário de testes de acessibilidade; e
+   * Criar 1 cenário de teste de responsividade mobile considerando dois tipos de dispositivos. 
    
 ## Bugs e Melhorias
-   * Relatório de Falhas e Melhorias.
+Relatório de Falhas e Melhorias.
 
 ## Bônus: Criação de teste automatizado em Cypress E2E 
+Código de automação de teste de Cadastro (Login) 
 
 ## Referência 
 1. IEEE Standard for Software Test Documentation. Disponível em:<https://ieeexplore.ieee.org/document/741968/> Acesso em: 10 de setembro de 2024.
