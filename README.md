@@ -17,10 +17,8 @@ Para tanto, detalha-se:
 * Evidências (gravação das telas) de execução dos casos de testes;\
  Gravações de tela 1 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/EVIDENCIAS%201.rar)
 Gravações de tela 2 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/EVIDENCIAS%202.rar)
-* Cenários de testes: \
-  a) desempenho (); \
-  b) acessibilidade ();\
-  c) responsividade mobile considerando dois tipos de dispositivos (); e \
+* Cenários de testes: desempenho, acessibilidade e responsividade mobile considerando dois tipos de dispositivos; \
+  (
 * Falhas(bugs) e Melhorias. \
   () 
 
