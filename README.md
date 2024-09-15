@@ -51,6 +51,10 @@ Fluxo da pessoa usuária (Versão Mobile): \
   **Esquecer a senha da pessoa usuária e receber por e-mail.**\
   **Testar reset de senha.**
 
+   ## Cenários de testes
+
+   ## Bugs e Melhorias 
+
 
 ## Referência 
 1. IEEE Standard for Software Test Documentation. Disponível em:<https://ieeexplore.ieee.org/document/741968/> Acesso em: 10 de setembro de 2024.
