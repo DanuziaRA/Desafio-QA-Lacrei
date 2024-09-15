@@ -35,10 +35,11 @@ Acredita-se que esta análise fornecerá uma visão clara sobre a robustez e a q
 Neste documento, segue-se o padrão IEEE 829 elaborado pela IEEE (Institute of Electrical and Electronic Engineers), fundação organizacional sem fins lucrativos responsável por definir padrões para praticas presentes na engenharia de software, no que tange ao processo de testes e controle da qualidade, definição de documentos consistentes, adequados, em registros capazes de prover condições de análise dos resultados obtidos ao longo dos testes funcionais.
 
 As ferramentas utilizadas no processo de teste são listadas a seguir: \
-* Site Lacrei Saúde utilizado para elaboração do planejamento dos casos de teste, disponível no endereço https://paciente-staging.lacreisaude.com.br/
+* Site Lacrei Saúde utilizado como recurso para elaboração do planejamento dos casos de teste, disponível no endereço https://paciente-staging.lacreisaude.com.br/
 * O Jira Software™  foi a ferramenta para o planejamento, metodologia e gestão da execução do projeto.
 * O aplicativo Zephyr Scale© foi escolhido como gerenciador dos casos de testes, uma vez que se integra ao software Jira, permitindo a coordenação e rastreio de atividades e resultados dos casos.
-* Os fluxos dos casos de testes foram executados na plataforma Sauce Labs©  unificada para testes automatizados e monitoramento de erros para aplicativos móveis, integrado a estrutura de automação Appium Serve©.
+* Os fluxos dos casos de testes e cenário de teste de acessabilidade e responsividade mobile considerando dois tipos de dispositivos foram executados na plataforma Sauce Labs©, unificada para testes automatizados e monitoramento de erros para aplicativos móveis, integrado a estrutura de automação Appium Serve©.
+* Para o cenário de teste de desempenho foi utilizado a ferramenta Testable.io©
 
 
 ## Caso de Teste
