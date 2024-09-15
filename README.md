@@ -16,7 +16,7 @@ Para tanto, detalha-se:
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20RASTREABILIDADE%20DE%20CASOS%20DE%20TESTES.pdf)
 * Evidências (gravação das telas) de execução dos casos de testes;\
  Gravações de tela 1 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/EVIDENCIAS%201.rar)
-Gravações de tela 2 (
+Gravações de tela 2 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/EVIDENCIAS%202.rar)
 * Cenários de testes: \
   a) desempenho (); \
   b) acessibilidade ();\
