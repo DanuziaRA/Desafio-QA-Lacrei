@@ -4,6 +4,8 @@ Este repositório contém a documentação de teste do **Desafio de QA da Lacrei
 
 Para tanto, detalha-se:
 
+* Planejamento desenvolvido no Notion (https://miniature-canary-bea.notion.site/Planejamento-f03c5d84c03941d597b6ca65a0e6dc2c#10281b070afa8025b26afa5d7b266cb6);
+  
 * Especificação de Casos de Teste; \
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/ESPECIFICA%C3%87%C3%83O%20DE%20CASOS%20DE%20TESTES.pdf) 
 * Especificações de Procedimento de Teste (todos os fluxos indicados no desafio); \
