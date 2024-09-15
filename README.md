@@ -18,8 +18,8 @@ Para tanto, detalha-se:
  Gravações de tela 1 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/EVIDENCIAS%201.rar)
 Gravações de tela 2 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/EVIDENCIAS%202.rar)
 * Cenários de testes: desempenho, acessibilidade e responsividade mobile considerando dois tipos de dispositivos; \
-  (
-* Falhas(bugs) e Melhorias. \
+  (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/CEN%C3%81RIO%20DE%20TESTES.pdf)
+* Melhorias. \
   () 
 
 ## Introdução
