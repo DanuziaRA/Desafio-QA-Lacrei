@@ -21,7 +21,7 @@ Para tanto, detalha-se:
 Gravações de tela 2 (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/EVIDENCIAS%202.rar)
 * Cenários de testes: desempenho, acessibilidade e responsividade mobile considerando dois tipos de dispositivos; \
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/CEN%C3%81RIO%20DE%20TESTES.pdf)
-* Melhorias. \
+* Falhas e Melhorias - Notion: (https://miniature-canary-bea.notion.site/Relat-rio-de-Falhas-e-Melhorias-10281b070afa806faa29dfad58e82a38) \
   (https://github.com/DanuziaMoreira/Desafio-QA-Lacrei/blob/main/RELAT%C3%93RIO%20DE%20FALHAS%20E%20MELHORIAS%20-%20CASOS%20DE%20TESTE.pdf) 
 
 ## Introdução
